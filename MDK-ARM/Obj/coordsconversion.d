@@ -1,0 +1,11 @@
+.\obj\coordsconversion.o: ..\Action_User\PathControl\CoordsConversion.c
+.\obj\coordsconversion.o: ..\Action_User\PathControl\Walk.h
+.\obj\coordsconversion.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\coordsconversion.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\obj\coordsconversion.o: ..\Action_User\elmo.h
+.\obj\coordsconversion.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\coordsconversion.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\coordsconversion.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\coordsconversion.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\coordsconversion.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\coordsconversion.o: ..\Libraries\CMSIS\system_stm32f4xx.h

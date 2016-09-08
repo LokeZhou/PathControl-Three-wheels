@@ -1,0 +1,11 @@
+.\obj\basicline.o: ..\Action_User\PathControl\BasicLine.c
+.\obj\basicline.o: ..\Action_User\PathControl\Walk.h
+.\obj\basicline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\basicline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\obj\basicline.o: ..\Action_User\elmo.h
+.\obj\basicline.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\basicline.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\basicline.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\basicline.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\basicline.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\basicline.o: ..\Libraries\CMSIS\system_stm32f4xx.h

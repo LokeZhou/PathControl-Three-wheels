@@ -1,0 +1,16 @@
+.\obj\walk.o: ..\Action_User\walk.c
+.\obj\walk.o: ..\Action_User\walk.h
+.\obj\walk.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\walk.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\obj\walk.o: ..\Action_User\elmo.h
+.\obj\walk.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\walk.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\walk.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\walk.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\walk.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\walk.o: ..\Libraries\CMSIS\system_stm32f4xx.h
+.\obj\walk.o: ..\Action_User\timer.h
+.\obj\walk.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_tim.h
+.\obj\walk.o: ..\Action_User\usart.h
+.\obj\walk.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
+.\obj\walk.o: ..\Action_User\fuzzypid.h
